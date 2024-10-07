@@ -1,0 +1,6 @@
+@mixin flexCenter($hoge) {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: $hoge;
+}
